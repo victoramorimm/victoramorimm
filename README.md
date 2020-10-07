@@ -1,7 +1,7 @@
 ### Opa, tudo bem? 👋
+<hr />
 
 <h4>👨🏻‍💻 Me chamo Victor Amorim, tenho 15 anos e estudo atualmente as seguintes tecnologias:</h3>
-<hr />
 
 <h5>⚛️ ReactJS</h5>
 <h5>⚛️ React Native</h5>
