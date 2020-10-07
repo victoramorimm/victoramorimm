@@ -1,16 +1,15 @@
-### Hi there 👋
+### Opa, tudo bem? 👋
 
-<!--
-**victoramorimm/victoramorimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>👨🏻‍💻 Me chamo Victor Amorim, tenho 15 anos e estudo atualmente as seguintes tecnologias:</h3>
+<hr />
 
-Here are some ideas to get you started:
+<h5>⚛️ ReactJS</h5>
+<h5>⚛️ React Native</h5>
+<h5>⚛️ Node.Js</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr />
+
+<h4>:boy: Caso queira me conhecer melhor:</h4>
+<a href="https://instagram.com/victoramorimm_">:camera: Instagram</a>
+<h6>:computer: Discord Server (Soon) </h6>
+<h6>:video_camera: Youtube (Soon) </h6>
