@@ -10,6 +10,7 @@
 <hr />
 
 <h4>:boy: Caso queira me conhecer melhor:</h4>
+
 <a href="https://instagram.com/victoramorimm_">:camera: Instagram</a>
-<h6>:computer: Discord Server (Soon) </h6>
+<a href="https://discord.gg/vFTWbCE">:computer: Discord Server (Soon) </a
 <h6>:video_camera: Youtube (Soon) </h6>
