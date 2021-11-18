@@ -8,10 +8,3 @@
 <h5>⚛️ Node.Js</h5>
 
 <hr />
-
-<h4>:boy: Caso queira me conhecer melhor:</h4>
-
-<a href="https://instagram.com/victoramorimm_">:camera: Instagram</a>
-<br />
-<a href="https://discord.gg/vFTWbCE">:computer: Discord Server</a>
-<h6>:video_camera: Youtube (Soon) </h6>
